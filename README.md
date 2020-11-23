@@ -23,5 +23,6 @@ Test dataset prediction
 ![example2](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/test_example.PNG)
 
 Snipped of training log
+
 ![example3](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/training_log.PNG)
 
