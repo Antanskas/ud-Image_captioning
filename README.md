@@ -37,7 +37,7 @@ pip install git+https://github.com/philferriere/cocoapi.git#egg=pycocotools^&sub
    **2014 Val images [41K/6GB]** (extract the val2014 folder and place at location cocoapi/images/val2014/)
    **2014 Test images [41K/6GB]** (extract the test2014 folder and place at location cocoapi/images/test2014/)
    
-* Please follow the structure of the project described [here](https://github.com/cocodataset/cocoapi)
+* Place cocoapi into opt folder created in project parent path. For more detailed steps follow the instruction described here [here](https://github.com/cocodataset/cocoapi) just dont remember to place cocoapi under opt!
 
 
 
