@@ -13,6 +13,13 @@ The solution architecture consists of:
 
 ## Results
 These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
-![example1](https://github.com/Lexie88rus/Udacity-CVND-Image-Captioning/raw/master/assets/example1.png)
-![example2](https://github.com/Lexie88rus/Udacity-CVND-Image-Captioning/raw/master/assets/example2.png)
+
+Validation dataset prediction with calculated BLEU calculated averaging over 1000 validation samples:
+![example1](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/validation_example.PNG)
+
+Test dataset prediction
+![example2](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/test_example.PNG)
+
+Snipped of training log
+![example3](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/training_log.PNG)
 
