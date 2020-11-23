@@ -7,9 +7,9 @@ The repository contains a neural network, which can automatically generate capti
 ## Network Architecture
 The solution architecture consists of:
 1. CNN encoder, which encodes the images into the embedded feature vectors:
-![image](https://github.com/Lexie88rus/Udacity-CVND-Image-Captioning/raw/master/assets/encoder.png)
+![image](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/encoder.PNG)
 2. Decoder, which is a sequential neural network consisting of LSTM units, which translates the feature vector into a sequence of tokens:
-![image](https://github.com/Lexie88rus/Udacity-CVND-Image-Captioning/raw/master/assets/decoder.png)
+![image](https://github.com/Antanskas/ud-Image_captioning/blob/master/repo_images/decoder.PNG)
 
 ## Results
 These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
